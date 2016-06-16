@@ -1,6 +1,6 @@
 {
   "name": "Autorace project",
   "tagline": "",
-  "body": "<a href=\"path_to_file\" download=\"autorace.zip\">Download Autorace</a>",
+  "body": "<form method=\"get\" action=\"autorace.zip\">\r\n<button type=\"submit\">Download!</button>\r\n</form>",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
