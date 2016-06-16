@@ -1,6 +1,6 @@
 {
   "name": "Autorace project",
   "tagline": "",
-  "body": "<form method=\"get\" action=\"autorace.zip\">\r\n<button type=\"submit\">Download!</button>\r\n</form>",
+  "body": "https://raw.githubusercontent.com/downloads/carti26/carti26.github.io/autorace.zip",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
